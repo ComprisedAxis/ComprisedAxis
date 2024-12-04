@@ -35,4 +35,4 @@ Welcome to my GitHub! I'm a **Computer Scientist** currently specializing in **A
 -->
 ---
 
-Thanks for stopping by! Feel free to explore my projects and connect with me to collaborate on exciting ventures! 🚀
+Feel free to explore my projects and connect with me to collaborate! 🚀
