@@ -5,12 +5,6 @@ Welcome to my GitHub! I'm a **Computer Scientist** currently specializing in **A
 ---
 
 ## 🌍 About Me
-
-- 🌟 **Languages**:  
-  - 🇮🇹 Italian (native)  
-  - 🇬🇧 English  
-  - 🇪🇸 Spanish  
-
 - 🧠 **Interests**:  
   - Neural Networks  
   - Deep Learning  
